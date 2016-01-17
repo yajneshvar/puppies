@@ -1,0 +1,1 @@
+puts "Puppies are cute!"
